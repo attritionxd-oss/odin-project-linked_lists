@@ -1,0 +1,24 @@
+{
+  "name": "odin-project-linked_lists",
+  "version": "1.0.0",
+  "description": "The Odin Project - Project: Linked Lists",
+  "homepage": "https://github.com/attritionxd-oss/odin-project-linked_lists#readme",
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/attritionxd-oss/odin-project-linked_lists/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/attritionxd-oss/odin-project-linked_lists.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "author": "attritionxd-oss",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
